@@ -79,3 +79,6 @@ A1：[Crowdin](#貢献) から翻訳にご協力ください。Crowdin に文字
 **Q2：生の翻訳キー（例：`rule.food_restriction.air_block`）が出現します。**
 
 A2：言語ファイルから項目が欠落しています。[Issues](https://github.com/mc-wiki/mcaf-resourcepack/issues) から報告していただけると幸いです。
+
+**Q3：どうすれば新しい言語を追加できますか？
+A3：[Crowdin](https://crowdin.com/project/mcaf-resourcepack)で言語の追加をリクエストできます。
